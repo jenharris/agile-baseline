@@ -1,5 +1,8 @@
 ##Audiences and Outcomes Guide
 
+**What it is:**
+A workshop conducted with stakeholders early on to identify, describe, and begin prioritizing audiences and outcomes for a digital project.
+
 **Recommended Reading:**
 
 - A List Apart: “Audiences, Outcomes, and Determining User Needs” (Feb 28, 2012)
