@@ -1,12 +1,8 @@
 ##Audiences and Outcomes Guide
 
 **What it is:**
+
 A workshop conducted with stakeholders early on to identify, describe, and begin prioritizing audiences and outcomes for a digital project.
-
-**Recommended Reading:**
-
-- A List Apart: “Audiences, Outcomes, and Determining User Needs” (Feb 28, 2012)
-http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 
 **How to do it:** 
 
@@ -38,3 +34,9 @@ http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 	- What assumptions do you make concerning your audiences? Example: do you assume your audience is of a certain socioeconomic group, or that they are familiar with certain aspects of your organization?
 	- What drives your business, and how does your audience help achieve positive results?
 	- What metrics do you want to keep track of?
+
+**Recommended Reading:**
+
+- A List Apart: “Audiences, Outcomes, and Determining User Needs” (Feb 28, 2012)
+http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
+
