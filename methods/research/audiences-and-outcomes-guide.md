@@ -36,4 +36,4 @@ http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 	- What drives your business, and how does your audience help achieve positive results?
 	- What metrics do you want to keep track of?
 
-<img src="agile-baseline/teach-a&o.jpg">
+<img src="../../agile-baseline/teach-a&o.jpg">
