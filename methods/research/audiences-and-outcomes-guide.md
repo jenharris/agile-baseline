@@ -35,3 +35,5 @@ http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 	- What assumptions do you make concerning your audiences? Example: do you assume your audience is of a certain socioeconomic group, or that they are familiar with certain aspects of your organization?
 	- What drives your business, and how does your audience help achieve positive results?
 	- What metrics do you want to keep track of?
+
+<img src="agile-baseline/teach-a&o.jpg">
