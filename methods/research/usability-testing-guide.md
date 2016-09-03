@@ -1,5 +1,8 @@
 ##Usability Testing Guide
-Testing one user is 100% better than testing none.
+
+**What it is:**
+
+Usability testing is a technique to evaluate a product by testing it on users. 
 
 **Recommended Reading:**
 *Don’t Make Me Think: A Common Sense Approach to Web Usability*, by Steve Krug (2005)
@@ -33,3 +36,4 @@ Especially Chapters 9 & 10
 - If you want a great site, you’ve got to test. The only way to really find out if a site works is to test it. 
 - Not everyone thinks the way you do. A lot of things you take for granted aren’t obvious to everybody.
 - Test to inform your judgement.
+- Testing one user is 100% better than testing none.
