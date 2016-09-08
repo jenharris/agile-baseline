@@ -4,9 +4,9 @@ The Agile Baseline is and will always be a work in progress. Your comments, sugg
 
 ###Table of Contents
 
-[Principles](principles.md)
+[Principles](01-principles/principles.md)
 
-Policies
+[Policies](02-policies/policies.md)
 
 Process
 - [Sprint 0 Discovery](sprint-0-discovery.md)
