@@ -1,3 +1,5 @@
+##Sprint Cycle
+
 - Prioritize stories
 - Prepare stories for development
 - Decompose into development tasks
