@@ -1,6 +1,6 @@
 ##Sprint 0 Discovery Process
 
-During initial project discovery, we perform various activities to achieve the following goals:
+During initial project discovery, we perform various research and design-related activities to achieve the following goals:
 
 - Understand business needs
 - Understand current/historical context
