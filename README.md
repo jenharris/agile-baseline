@@ -4,21 +4,21 @@ The Agile Baseline is and will always be a work in progress. Your comments, sugg
 
 ###Table of Contents
 
-[Principles](https://github.com/CivicActions/agile-baseline/blob/master/principles.md)
+[Principles](principles.md)
 
 Policies
 
 Rituals
 - Sprint Planning Meetings
 - Daily Scrum Calls
-- [Sprint Retrospectives](https://github.com/CivicActions/agile-baseline/blob/master/rituals/sprint-retrospectives.md)
+- [Sprint Retrospectives](rituals/sprint-retrospectives.md)
 
 Process
-- [Sprint 0 Discovery](https://github.com/CivicActions/agile-baseline/blob/master/sprint-0-discovery.md)
-- [Sprint Cycle](https://github.com/CivicActions/agile-baseline/blob/master/sprint-cycle.md)
+- [Sprint 0 Discovery](sprint-0-discovery.md)
+- [Sprint Cycle](sprint-cycle.md)
 
 Methods
-- [Research](https://github.com/CivicActions/agile-baseline/blob/master/methods/1-research.md)
-- [Design](https://github.com/CivicActions/agile-baseline/blob/master/methods/2-design.md)
-- [Implementation](https://github.com/CivicActions/agile-baseline/blob/master/methods/3-implementation.md)
-- [Validation](https://github.com/CivicActions/agile-baseline/blob/master/methods/4-validation.md)
+- [Research](methods/1-research.md)
+- [Design](methods/2-design.md)
+- [Implementation](methods/3-implementation.md)
+- [Validation](methods/4-validation.md)
