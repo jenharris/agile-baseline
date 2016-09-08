@@ -1,3 +1,5 @@
+##Design Methods
+
 - Content Modeling
 - Content Templates
 - Content type definitions
