@@ -4,8 +4,8 @@
 - Content Templates
 - Content type definitions
 - Architecture (IA) sketches
-- [Design Studio](design/design-studio-guide.md)
+- [Design Studio](2-design/design-studio-guide.md)
 - UI sketches/storyboards
 - Prototyping
-- [Wireframing](design/wireframing-guide.md)
+- [Wireframing](2-design/wireframing-guide.md)
 - Design Patterns
