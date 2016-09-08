@@ -12,11 +12,6 @@ Process
 - [Sprint 0 Discovery](sprint-0-discovery.md)
 - [Sprint Cycle](sprint-cycle.md)
 
-Rituals
-- Sprint Planning Meetings
-- Daily Scrum Calls
-- [Sprint Retrospectives](rituals/sprint-retrospectives.md)
-
 Methods
 - [Research](methods/1-research.md)
 - [Design](methods/2-design.md)
