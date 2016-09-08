@@ -18,6 +18,6 @@ Methods
 - [Implementation](04-methods/3-implementation.md)
 - [Validation](04-methods/4-validation.md)
 
-Tools
+[Tools](05-tools/tools.md)
 
-Roles
+[Roles](06-roles/roles.md)
