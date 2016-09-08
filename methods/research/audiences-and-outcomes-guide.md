@@ -42,4 +42,6 @@ http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 
 **Examples:**
 
-[[https://github.com/CivicActions/agile-baseline/blob/master/CRFA-a%26o.jpg]]
+![CFRA example](../../CRFA-a%26o.jpg "CFRA Example")
+![Lexicon example](../../lexicon-a%26o.jpg "Lexicon Example")
+![Teach example](../../teach-a%26o.jpg "Teach Example")
