@@ -12,5 +12,5 @@
 
 ###Methods
 
-- [Research Methods](https://github.com/CivicActions/agile-baseline/blob/master/methods/1-research.md)
-- [Design Methods](https://github.com/CivicActions/agile-baseline/blob/master/methods/2-design.md)
+- [Research Methods](04-methods/1-research.md)
+- [Design Methods](04-methods/2-design.md)
