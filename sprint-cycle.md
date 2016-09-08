@@ -9,3 +9,9 @@
 - Review/test implementation
 - Demo/validate with users
 - Repeat
+
+###Rituals
+
+- Sprint Planning Meetings
+- Daily Scrum Calls
+- Sprint Retrospectives
