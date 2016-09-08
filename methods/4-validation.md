@@ -1,3 +1,5 @@
+##Validation Methods
+
 - Usability Testing
 - Surveys
 - Card Sorting
