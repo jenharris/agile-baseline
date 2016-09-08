@@ -11,5 +11,5 @@
 - Story Conversations
 - Use Cases
 - User Scenarios
-- Usability Testing
+- [Usability Testing](https://github.com/CivicActions/agile-baseline/blob/master/methods/research/usability-testing-guide.md)
 - Comparative Analysis
