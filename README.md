@@ -8,14 +8,14 @@ The Agile Baseline is and will always be a work in progress. Your comments, sugg
 
 Policies
 
+Process
+- [Sprint 0 Discovery](sprint-0-discovery.md)
+- [Sprint Cycle](sprint-cycle.md)
+
 Rituals
 - Sprint Planning Meetings
 - Daily Scrum Calls
 - [Sprint Retrospectives](rituals/sprint-retrospectives.md)
-
-Process
-- [Sprint 0 Discovery](sprint-0-discovery.md)
-- [Sprint Cycle](sprint-cycle.md)
 
 Methods
 - [Research](methods/1-research.md)
