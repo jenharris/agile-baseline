@@ -9,15 +9,15 @@ The Agile Baseline is and will always be a work in progress. Your comments, sugg
 [Policies](02-policies/policies.md)
 
 Process
-- [Sprint 0 Discovery](sprint-0-discovery.md)
-- [Sprint Cycle](sprint-cycle.md)
+- [Sprint 0 Discovery](03-process/sprint-0-discovery.md)
+- [Sprint Cycle](03-process/sprint-cycle.md)
 
 Methods
-- [Research](methods/1-research.md)
-- [Design](methods/2-design.md)
-- [Implementation](methods/3-implementation.md)
-- [Validation](methods/4-validation.md)
+- [Research](04-methods/1-research.md)
+- [Design](04-methods/2-design.md)
+- [Implementation](04-methods/3-implementation.md)
+- [Validation](04-methods/4-validation.md)
 
 Tools
 
-Roles?
+Roles
