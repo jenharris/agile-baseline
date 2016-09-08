@@ -14,4 +14,4 @@
 
 - Sprint Planning Meetings
 - Daily Scrum Calls
-- Sprint Retrospectives
+- [Sprint Retrospectives](rituals/sprint-retrospectives.md)
