@@ -9,9 +9,9 @@ The Agile Baseline is and will always be a work in progress. Your comments, sugg
 Policies
 
 Rituals
-- Sprint Planning
-- Daily Scrum
-- Sprint Retrospective
+- Sprint Planning Meetings
+- Daily Scrum Calls
+- [Sprint Retrospectives](https://github.com/CivicActions/agile-baseline/blob/master/rituals/sprint-retrospectives.md)
 
 Process
 - [Sprint 0 Discovery](https://github.com/CivicActions/agile-baseline/blob/master/sprint-0-discovery.md)
