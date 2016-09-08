@@ -1,6 +1,6 @@
 ##CivicActions Agile Baseline
 
-The Agile Baseline is and will always be a work in progress. Your comments, suggestions, and edits are welcome. 
+The Agile Baseline documents the principles, policies, processes, methods, and tools that underpin the way we do our work. This is a living document and is updated regularly. If you want to add or edit content in the Baseline, please submit a pull request or ask in [#agile](https://civicactions.slack.com/messages/agile/).
 
 ###Table of Contents
 
