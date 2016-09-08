@@ -40,3 +40,6 @@ A workshop conducted with stakeholders early on to identify, describe, and begin
 - A List Apart: “Audiences, Outcomes, and Determining User Needs” (Feb 28, 2012)
 http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 
+**Examples:**
+
+[[https://github.com/CivicActions/agile-baseline/blob/master/CRFA-a%26o.jpg]]
