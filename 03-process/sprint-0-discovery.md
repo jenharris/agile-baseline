@@ -11,6 +11,11 @@ During initial project discovery, we perform various research and design-related
 - Understand desired high-level outcomes
 - Understand major risks and assumptions
 - Envision solutions
+- 
+
+###What's the difference between Sprint 0 in Agile vs Sprint 0 in Waterfall? 
+
+Check out this GovCon slidedeck by Gerardo and Kev 
 
 ###Methods
 
