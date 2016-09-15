@@ -1,6 +1,6 @@
 ##Tools
 
-The following are the tools we currently use to support our Agile processes. This list is always evolving.
+The following are the tools we currently use to support our Agile processes (with account administrator in parentheses). This list is always evolving.
 
 - [Bluejeans](bluejeans.md)
 - [GitHub](github.md)
@@ -11,8 +11,8 @@ The following are the tools we currently use to support our Agile processes. Thi
 - Google Drive
 - Google Hangouts
 - Jira
-- myBalsamiq
+- [myBalsamiq](civicactions.mybalsamiq.com) (Jen, Kevin, Judy)
 - Slack
-- Storiesonboard
-- Trello
+- [Storiesonboard]()
+- [Trello](Trello.com)
 - Waffle
