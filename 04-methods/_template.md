@@ -1,4 +1,4 @@
-##Comparative Analysis
+##Method Template
 
 **What it is:**
 
@@ -9,11 +9,7 @@
 **Why to do it:**
 
 
-**Sample Questions:**
-
-
-
 **Recommended Reading:**
 
-**Examples:**
 
+**Examples:**

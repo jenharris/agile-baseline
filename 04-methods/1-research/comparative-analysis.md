@@ -9,11 +9,7 @@
 **Why to do it:**
 
 
-**Sample Questions:**
-
-
-
 **Recommended Reading:**
 
-**Examples:**
 
+**Examples:**

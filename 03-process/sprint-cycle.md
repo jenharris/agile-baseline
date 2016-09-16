@@ -10,8 +10,9 @@
 - Demo/validate with users
 - Repeat
 
-###Rituals
+###Practices (aka Ceremonies)
 
-- Sprint Planning Meetings
-- Daily Scrum Calls
+- [Backlog Grooming](rituals/backlog-grooming.md)
+- [Sprint Planning Meetings](sprint-planning-meetings.md)
+- [Daily Scrum Calls](daily-scrum-calls.md)
 - [Sprint Retrospectives](rituals/sprint-retrospectives.md)

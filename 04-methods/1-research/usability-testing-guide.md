@@ -2,7 +2,7 @@
 
 **What it is:**
 
-Usability testing is a technique for evaluating a product by testing it on users. 
+Usability testing is a technique for evaluating a product by testing it on users.
 
 **How to do it:**
 
@@ -13,7 +13,7 @@ Usability testing is a technique for evaluating a product by testing it on users
  - Try the test yourself first: Make sure you can do it in the allotted time.
  - Respect the participants: be nice to them (show empathy). If they get stuck, don’t let them get too frustrated. Be reassuring. Thank them when you’re done. Let them know their participation has been very helpful, just what you need.
  - Try to observe the participant’s thought process. When you’re not sure what they’re thinking about or looking at, ask them. When they are ready to click, ask them what they expect. After they click, ask them if the result was what they expected.
- - Keep the instructions simple and don’t be afraid to repeat yourself (for example): 
+ - Keep the instructions simple and don’t be afraid to repeat yourself (for example):
 	 - “Look at this page and tell me what you think everything is and what you would be likely to click on.”
 	 - “What would you click on next and what would you expect to see?”
 	 - “Try to think out loud as much as possible.”
@@ -26,7 +26,7 @@ Usability testing is a technique for evaluating a product by testing it on users
 
 **Why to do it:**
 
-- If you want a great site, you’ve got to test. The only way to really find out if a site works is to test it. 
+- If you want a great site, you’ve got to test. The only way to really find out if a site works is to test it.
 - Not everyone thinks the way you do. A lot of things you take for granted aren’t obvious to everybody.
 - Test to inform your judgement.
 - Testing one user is 100% better than testing none.
@@ -36,5 +36,5 @@ Usability testing is a technique for evaluating a product by testing it on users
 *Don’t Make Me Think: A Common Sense Approach to Web Usability*, by Steve Krug (2005)
 Especially Chapters 9 & 10
 
- - Chapter 9: Usability Testing on 10 cents a day (Keeping testing simple - so you do enough of it) 
+ - Chapter 9: Usability Testing on 10 cents a day (Keeping testing simple - so you do enough of it)
  - Chapter 10: Usability Testing: The movie (How to do your own testing)
