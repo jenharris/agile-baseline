@@ -8,7 +8,7 @@ Instructions/tips for setting up the tool or application, if applicable.
 
 ###Rules
 
-Descrption of rules/policies for tool use, if applicable.
+Description of rules/policies for tool use, if applicable.
 
 ###Usage
 
