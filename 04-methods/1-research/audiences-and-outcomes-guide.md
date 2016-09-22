@@ -4,20 +4,20 @@
 
 A workshop conducted with stakeholders early on to identify, describe, and begin prioritizing audiences and outcomes for a digital project.
 
-**How to do it:** 
+**How to do it:**
 
 - Gather the most important stakeholders - people who have a sense of the overall strategy of the organization of agency; ideally some frontline people, and some board members - a variety of people who understand the goals and know the different audiences
 - Overall goal is to get people talking; should be open-ended
 - Retreat-style / informal
 - Focus on the audience for org/agency and the actions that the stakeholders want/expect them to take
-- First talk about audiences, and then the actions (and outcomes) you want them to take, or vice versa (depending on the project) 
-- The most common things you hear initially are vague (ie. "raise awareness") - try to home in on specific actions and outcomes, and connect those outcomes to specific metrics that would be tracked to evaluate success 
+- First talk about audiences, and then the actions (and outcomes) you want them to take, or vice versa (depending on the project)
+- The most common things you hear initially are vague (ie. "raise awareness") - try to home in on specific actions and outcomes, and connect those outcomes to specific metrics that would be tracked to evaluate success
 - Look at the bigger picture rather than just the website itself
-- Spend 1-2 hours 
+- Spend 1-2 hours
 
 **Why to do it:**
 
-- Website audiences are comprised of a variety of types of individuals, from external viewers to internal content creators and/or editors, who may have different needs and objectives when engaging with the site. For each audience, it’s important that we gain insight into our users and their goals, so we can create a successful website experience. 
+- Website audiences are comprised of a variety of types of individuals, from external viewers to internal content creators and/or editors, who may have different needs and objectives when engaging with the site. For each audience, it’s important that we gain insight into our users and their goals, so we can create a successful website experience.
 - Building out an understanding of audiences is best done collaboratively (in-person if possible), with “executive” types and “front line” types.  Product owners vary greatly -- you may get one that already has all this understanding, but chances are within government and NGOs, they do not.
 
 **Sample Questions:**
@@ -42,6 +42,6 @@ http://alistapart.com/article/audiences-outcomes-and-determining-user-needs
 
 **Examples:**
 
-![CFRA example](../../CRFA-a%26o.jpg "CFRA Example")
-![Lexicon example](../../lexicon-a%26o.jpg "Lexicon Example")
-![Teach example](../../teach-a%26o.jpg "Teach Example")
+![CFRA example](../../assets/CRFA-a%26o.jpg "CFRA Example")
+![Lexicon example](../../assets/lexicon-a%26o.jpg "Lexicon Example")
+![Teach example](../../assets/teach-a%26o.jpg "Teach Example")
