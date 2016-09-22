@@ -1,8 +1,8 @@
 ##CivicActions Agile Baseline
 
-The Agile Baseline documents the principles, policies, processes, methods, and tools that underpin the way we do our work. This is a living document and is updated regularly. If you want to add or edit content in the Baseline, please submit a pull request or ask in [#agile](https://civicactions.slack.com/messages/agile/).
+The Agile Baseline documents the principles, policies, processes, methods, and tools that underpin the way we do our work. This is a living document and is updated regularly by the CivicActions Agile Champions group. If you want to add or edit content in the Baseline, please submit a pull request or ask in [#agile](https://civicactions.slack.com/messages/agile/).
 
-Tip: the documentation in this repository can be used in combination with our [Agile Baseline story map](https://civicactions.storiesonboard.com/m/agile-baseline-story-map), which is also a living document.
+The crux of this documentation is a set of how-to "method guides" that describe various techniques we use for research, design, implementation, and validation - check out [Audiences & Outcomes](/04-methods/1-research/audiences-and-outcomes-guide.md) for an example of a fully realized guide (we are still developing the others). We recommend using this documentation in combination with our [Agile Baseline story map](https://civicactions.storiesonboard.com/m/agile-baseline-story-map), which maps out an ideal Agile project lifecycle.
 
 ###Table of Contents
 
