@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CivicActions/agile-baseline.png?label=ready&title=Ready)](https://waffle.io/CivicActions/agile-baseline)
 ##CivicActions Agile Baseline
 
 The Agile Baseline documents the principles, policies, processes, methods, and tools that underpin the way we do our work. This is a living document and is updated regularly by the CivicActions Agile Champions group. If you want to add or edit content in the Baseline, please submit a pull request or ask in [#agile](https://civicactions.slack.com/messages/agile/).
