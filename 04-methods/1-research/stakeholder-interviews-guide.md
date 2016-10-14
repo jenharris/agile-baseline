@@ -6,8 +6,6 @@ Stakeholder interviews are semi-structured conversations conducted with key proj
 
 **Why to do it:**
 
-Stakeholder interviews:
-
 - Build empathy with stakeholders
 - Raise important questions and constraints
 - Build trust
@@ -20,10 +18,10 @@ Stakeholder interviews:
  - Identify the problem you're trying to solve or the experience you're trying to improve
  - Group stakeholders and users based on their role in relation to the problem you’re trying to solve
  - Identify a few people who can demonstrate the workflows and speak to the concerns of each stakeholder group
- - Schedule the interviews with these people (30 minutes to an hour for each person)
+ - Schedule interviews with these people (30 minutes to an hour for each person)
  
 2. Prepare
- - Familiarize yourself with the stakeholders' contexts (ask stakeholders for any materials they believe are essential to doing their job)
+ - Familiarize yourself with the stakeholders' contexts (before the interviews, ask stakeholders for any materials they believe are essential to doing their job)
  - Draft your interview questions (the best questions are both open-ended and grounded in reality - _how_ and _why_ type questions)
  - Share your questions with your team and discuss / get feedback
  
