@@ -8,7 +8,7 @@
 - Implement story solutions
 - Review/test implementation
 - Demo/validate with users
-- Repeat
+- Repeat and repeat
 
 ###Practices (aka Ceremonies)
 
