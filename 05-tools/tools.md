@@ -13,7 +13,7 @@ The following are the tools we currently use to support our Agile processes. Thi
   - Google Hangouts
 - [Google Analytics](google-analytics.md)
 - Jira
-- [myBalsamiq](civicactions.mybalsamiq.com)
-- Slack
-- [Storiesonboard](storiesonboard.com)
-- [Trello](Trello.com)
+- [myBalsamiq](https://civicactions.mybalsamiq.com)
+- [Slack](https://civicactions.slack.com)
+- [Storiesonboard](https://civicactions.storiesonboard.com)
+- [Trello](https://trello.com)
