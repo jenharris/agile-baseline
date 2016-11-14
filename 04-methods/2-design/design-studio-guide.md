@@ -9,6 +9,7 @@ Design Studio is a collaborative sketching exercise for the entire team. The res
 It is the designer's responsibility to call these meetings and to facilitate them. In a typical session, teams of 5 to 8 people sketch together, critique the work as it emerges, and converge on a solution they believe has the greatest chance at success. The designer then takes the ideas generated and produces designs. The technique described below (from the book *Lean UX*) is specific, however, the specifics of the ritual are not the point. Solving design problems with your colleagues and clients is the end goal.
 
 *Process:*
+
 1. Define the problem and constraints: the first step is to ensure that everyone is aware of the problem you are trying to solve (including any assumptions, personas, hypotheses, and constraints).
 
 2. Generate ideas individually (~10 minutes): each member of the team will need a template - a sheet of paper with 6 empty boxes on it. Ask each person to label each box of his or her sheet with a persona and a specific pain point or problem (s)he will be addressing for that persona. Team members can write the same persona/pain point combination under multiple boxes if they have multiple solution ideas. Next, team members get five to ten minutes to generate six low-fidelity sketches (visual articulations) of solutions. These could be UI sketches, workflows, diagrams, etc.
