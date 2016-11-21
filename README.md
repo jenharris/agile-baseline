@@ -20,7 +20,7 @@ Please note: we have created templates for [Practices](/03-process/practices/_te
 If you have questions, ask in [#agile](https://civicactions.slack.com/messages/agile/).
 
 
-####Table of Contents
+##Table of Contents
 
 [Principles](01-principles/principles.md)
 
