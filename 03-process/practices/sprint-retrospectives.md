@@ -21,7 +21,7 @@ Other retrospective formats can be found at the [Retrospective Wiki](http://retr
 
 Regardless of the format you choose, at the conclusion of the retrospective the result should be a list of action items that the team commits to doing in order to improve future sprints.
 
-Once the team’s list of commitments has been finalized, place them in a Google doc that tracks retrospective action items from one sprint to the next. Pin the document to your project’s Slack channel for quick reference. You may also wish to revisit this list at your next [Sprint Planning Meeting](/sprint-planning-meetings.md).
+Once the team’s list of commitments has been finalized, place them in a Google doc that tracks retrospective action items from one sprint to the next. Pin the document to your project’s Slack channel for quick reference. You may also wish to revisit this list at your next [Sprint Planning Meeting](sprint-planning-meetings.md).
 
 ###Pointers:
 At the beginning of the retrospective, read the Prime Directive to the team in order to frame the ensuing conversation appropriately. It states: 
