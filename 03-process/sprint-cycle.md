@@ -12,7 +12,8 @@
 
 ###Practices (aka Ceremonies)
 
-- [Backlog Grooming](practices/backlog-grooming.md)
+- [Backlog Grooming (Refinement)](practices/backlog-grooming.md)
 - [Sprint Planning Meetings](practices/sprint-planning-meetings.md)
 - [Daily Scrum Calls](practices/daily-scrum-calls.md)
+- [Sprint Demo (Review)](practices/sprint-demo.md)
 - [Sprint Retrospectives](practices/sprint-retrospectives.md)
