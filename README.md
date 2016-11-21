@@ -15,7 +15,7 @@ All CivicActions team members are invited to add or edit content in the Baseline
 
 We are currently managing the creation of new Baseline content in [Waffle](https://waffle.io/CivicActions/agile-baseline). If you are interested in writing/adding new content, you are welcome to assign yourself to a card from the "Ready" column. Make your changes in a separate branch and submit a pull request when your work is ready to be merged.
 
-Please note: we have created templates for [Practices](/03-process/practices/_template.md), [Methods](/04-methods/_template.md), and [Tools](/05-tools/_tool-template.md). If you are adding a brand new .md file, please use the appropriate template.
+Please note: we have created templates for [Practices](03-process/practices/_template.md), [Methods](04-methods/_template.md), and [Tools](05-tools/_tool-template.md). If you are adding a brand new .md file, please use the appropriate template.
 
 If you have questions, ask in [#agile](https://civicactions.slack.com/messages/agile/).
 
