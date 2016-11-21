@@ -26,7 +26,7 @@ The daily scrum meeting is not meant to be a place to solve problems or to dive 
 
 **Why to do it:**
 
-The daily scrum meeting is useful in determining how well the team is progressing on sprint goals identified during the [Sprint Planning Meeting](/sprint-planning-meetings.md). It is helpful in fostering a collaborative team environment where team members offer support to each other as they work towards achieving the sprint goals. 
+The daily scrum meeting is useful in determining how well the team is progressing on sprint goals identified during the [Sprint Planning Meeting](sprint-planning-meetings.md). It is helpful in fostering a collaborative team environment where team members offer support to each other as they work towards achieving the sprint goals. 
 
 **Additional Resources:**
 
