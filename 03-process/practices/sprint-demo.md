@@ -14,7 +14,7 @@ The Sprint Demo should begin with a reminder of the meeting’s time box (which 
 
 “[The Sprint Demo] is the opportunity to inspect and adapt the product as it emerges, and iteratively refine everyone’s understanding of the requirements.”
 
-The Scrum Master or a project team member should read aloud the sprint goal that was established during the [Sprint Planning Meeting](/sprint-planning-meetings.md) to remind everyone of the sprint’s focus.
+The Scrum Master or a project team member should read aloud the sprint goal that was established during the [Sprint Planning Meeting](sprint-planning-meetings.md) to remind everyone of the sprint’s focus.
 
 Project team members should take turns demonstrating their completed work to the meeting attendees. Since CivicActions functions in a remote environment, team members should come prepared for screensharing or link sharing so that the work is visible to everyone. The demonstrator should quickly walk through what has been built, showing relevant functionality. Discussion and questions from stakeholders regarding each demonstrated item may be needed. During this conversation, additional details or features of the product may be uncovered. Those details should be added to the product backlog in the form of stories and tasks. As individual units of work are demonstrated, it is the Product Owner’s responsibility to declare these items as either “done” or “not done”. Any items that are not done should be returned to the product backlog for consideration in the next sprint.
 
